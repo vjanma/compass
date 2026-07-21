@@ -53,4 +53,4 @@ COMPASS is a synthesis; every step traces to published work on judgment and deci
 
 ## License
 
-MIT
+Apache 2.0

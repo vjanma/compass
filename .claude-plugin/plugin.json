@@ -9,7 +9,7 @@
   },
   "homepage": "https://github.com/vjanma/compass",
   "repository": "https://github.com/vjanma/compass",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "keywords": [
     "decision-making",
     "compass",
