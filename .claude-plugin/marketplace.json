@@ -1,0 +1,29 @@
+{
+  "name": "compass",
+  "owner": {
+    "name": "Vj Anma",
+    "email": "vjanma@gmail.com"
+  },
+  "description": "Standalone marketplace for the COMPASS decision-making plugin. Prefer the tinkery marketplace (vjanma/tinkery) for the full collection.",
+  "plugins": [
+    {
+      "name": "compass",
+      "source": "./",
+      "description": "Guide significant decisions with the research-backed COMPASS framework (Clarify, Options, Measure, Pause, Anticipate, Settle, Score) — an interactive walkthrough or a fillable worksheet.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Vj Anma"
+      },
+      "homepage": "https://github.com/vjanma/compass",
+      "repository": "https://github.com/vjanma/compass",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "decision-making",
+        "compass",
+        "wrap",
+        "premortem"
+      ]
+    }
+  ]
+}
