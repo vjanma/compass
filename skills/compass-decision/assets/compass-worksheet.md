@@ -79,4 +79,4 @@ At least three real options — one is a trap, two is a dilemma, three or more i
 
 > _____
 
-- Review on the tripwire date. Judge the **process**, not the outcome — a sound process can still draw a bad result. Do not "result."
+- Review when the tripwire fires (the date arrives, or the metric/dollar trigger is hit). Judge the **process**, not the outcome — a sound process can still draw a bad result. Do not "result."

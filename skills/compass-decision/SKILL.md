@@ -20,7 +20,7 @@ Before running the full process, size the decision:
 Then choose the output mode based on the situation:
 
 - **Walkthrough mode** (default for live, exploratory, or emotionally loaded decisions): move through the seven steps conversationally, one step at a time. Ask the user the questions in each step, wait for their answer, reflect it back, and only then advance. This is for thinking *with* the user.
-- **Worksheet mode** (default when the user wants something to fill in on their own, has already done some thinking, or asks for a document/template): generate a filled-in or fillable COMPASS worksheet from `assets/compass-worksheet.md`, populated with whatever the user has already told you. This is for handing the user an artifact.
+- **Worksheet mode** (default when the user wants something to fill in on their own, has already done some thinking, or asks for a document/template): generate a filled-in or fillable COMPASS worksheet from `assets/compass-worksheet.md` — resolve that path inside this skill's own directory (the base directory announced when the skill loads), never the current working directory — populated with whatever the user has already told you. This is for handing the user an artifact.
 
 If the situation is ambiguous, ask the user which they want, or infer from cues: a user mid-spiral about a choice wants the walkthrough; a user saying "give me a worksheet for X" wants the document. When in doubt for a high-stakes call, default to walkthrough, since the dialogue surfaces more.
 
@@ -78,8 +78,9 @@ Each step lists the questions to ask (walkthrough) or the fields to populate (wo
 - One step at a time. Do not dump all seven steps at once.
 - Adapt depth to stakes. A medium call may only need C, O, M, and S.
 - Reflect the user's answers back in their own words before advancing, so the thinking compounds.
-- At the end, offer to capture the result as a worksheet (`assets/compass-worksheet.md`) so the user keeps a record for the Score step later.
+- At the end, offer to capture the result as a worksheet (`assets/compass-worksheet.md`, from this skill's directory) so the user keeps a record for the Score step later.
 
 ## Generating the worksheet
 
-Read `assets/compass-worksheet.md` and produce a copy for the user to save. Fill in **only** fields the user has actually given you, in their own words. Do not invent, assume, or extrapolate answers to fields the user has not addressed: leave those exactly as the template's blank prompts so the user fills them in. Never put a decision in the Settle field that the user has not actually made. Keep the source tags and the COMPASS structure intact.
+Read `assets/compass-worksheet.md` from this skill's own directory (not the
+current working directory) and produce a copy for the user to save. Fill in **only** fields the user has actually given you, in their own words. Do not invent, assume, or extrapolate answers to fields the user has not addressed: leave those exactly as the template's blank prompts so the user fills them in. Never put a decision in the Settle field that the user has not actually made. Keep the source tags and the COMPASS structure intact.

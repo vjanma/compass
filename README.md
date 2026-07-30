@@ -34,7 +34,7 @@ COMPASS is a synthesis; every step traces to published work on judgment and deci
 | Step | Technique | Source |
 |---|---|---|
 | Size it first | Satisficing for low-stakes calls | Herbert Simon, [satisficing](https://en.wikipedia.org/wiki/Satisficing) |
-| **C**larify | Outcomes first, reasons before answers; honor core priorities | Tony Robbins, [OOC/EMR outcome-focused planning](https://www.tonyrobbins.com/blog/rpm-life-planner); Heath & Heath, *WRAP* |
+| **C**larify | Outcomes first, reasons before answers; honor core priorities | Tony Robbins, [OOC/EMR decision sequence](https://decisionmaker.tonyrobbins.com/outcomes); Heath & Heath, *WRAP* |
 | **O**ptions | Widen your options, vanishing-options test, bright spots | Chip & Dan Heath, [*Decisive*](https://heathbrothers.com/books/decisive/) (the WRAP framework) |
 | **M**easure | The outside view / reference-class forecasting | Daniel Kahneman, [*Thinking, Fast and Slow*](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow); Lovallo & Kahneman, ["Delusions of Success"](https://hbr.org/2003/07/delusions-of-success-how-optimism-undermines-executives-decisions) (HBR, 2003) |
 | **M**easure | Reality-test assumptions, "ooch" (small experiments) | Heath & Heath, *Decisive* |

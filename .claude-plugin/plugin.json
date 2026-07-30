@@ -1,7 +1,7 @@
 {
   "name": "compass",
   "displayName": "COMPASS Decision",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Guide significant decisions with the research-backed COMPASS framework (Clarify, Options, Measure, Pause, Anticipate, Settle, Score) — an interactive walkthrough or a fillable worksheet, synthesizing Kahneman, the Heath brothers' WRAP, Klein, Meehl, Tetlock, and Robbins.",
   "author": {
     "name": "Vj Anma",

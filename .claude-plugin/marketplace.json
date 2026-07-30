@@ -10,7 +10,7 @@
       "name": "compass",
       "source": "./",
       "description": "Guide significant decisions with the research-backed COMPASS framework (Clarify, Options, Measure, Pause, Anticipate, Settle, Score) — an interactive walkthrough or a fillable worksheet.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "Vj Anma"
       },
