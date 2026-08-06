@@ -1,0 +1,29 @@
+{
+  "name": "compass",
+  "version": "1.0.1",
+  "description": "Guide significant decisions with the research-backed COMPASS framework (Clarify, Options, Measure, Pause, Anticipate, Settle, Score) — an interactive walkthrough or a fillable worksheet, synthesizing Kahneman, the Heath brothers' WRAP, Klein, Meehl, Tetlock, and Robbins.",
+  "author": {
+    "name": "Vj Anma",
+    "email": "vjanma@gmail.com"
+  },
+  "homepage": "https://github.com/vjanma/compass",
+  "repository": "https://github.com/vjanma/compass",
+  "license": "Apache-2.0",
+  "keywords": [
+    "decision-making",
+    "compass",
+    "wrap",
+    "premortem",
+    "decision-hygiene",
+    "framework"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "COMPASS Decision",
+    "shortDescription": "Guide big decisions with the COMPASS framework",
+    "longDescription": "Guide significant decisions with the research-backed COMPASS framework (Clarify, Options, Measure, Pause, Anticipate, Settle, Score) — an interactive walkthrough or a fillable worksheet, synthesizing Kahneman, the Heath brothers' WRAP, Klein, Meehl, Tetlock, and Robbins.",
+    "developerName": "Vj Anma",
+    "category": "Productivity",
+    "websiteURL": "https://github.com/vjanma/compass"
+  }
+}
